@@ -1,0 +1,38 @@
+h1 {
+	color: white;
+	
+}
+
+div {
+	font-size: 20px;
+	
+}
+
+.obraz{
+	opacity: 0.7;
+}
+
+body{
+	background-image: url("https://wallpaper-house.com/data/out/8/wallpaper2you_245705.jpg");
+	text-align: center;
+}
+.ramka{
+	border-style: dashed;
+	border-radius: 15px;
+	width: 650px;
+	padding-top: 20px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+p {
+	background-image: url("https://thedaoofdragonball.com/wp-content/uploads/2013/04/genki-dama-goku-stance-intro.jpg");
+}
+
+.lista{
+	color:white;
+}
+
+.nowa{
+	color: red
+}
