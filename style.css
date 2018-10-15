@@ -1,6 +1,5 @@
 h1 {
 	color: white;
-	
 }
 
 div {
@@ -16,6 +15,8 @@ body{
 	background-image: url("https://wallpaper-house.com/data/out/8/wallpaper2you_245705.jpg");
 	text-align: center;
 }
+
+
 .ramka{
 	border-style: dashed;
 	border-radius: 15px;
@@ -23,6 +24,7 @@ body{
 	padding-top: 20px;
 	height: 400px;
 	margin: 0 auto;
+	position-absolute-left: 10px;
 }
 
 p {
@@ -31,8 +33,12 @@ p {
 
 .lista{
 	color:white;
+	width: 100px;
+	position: absolute;
+	top: 50px;
+	right: 50px;
 }
 
 .nowa{
-	color: red
+	color: red;
 }
